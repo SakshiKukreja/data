@@ -1,2 +1,5 @@
 ids,labels,parents
-Enzymatic-Flowery,Flowery,
+technical_domain,Technical Domain,
+security,Security,technical_domain
+reliability,Reliability,technical_domain
+cost, Cost, technical_domain
