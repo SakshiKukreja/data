@@ -1,0 +1,11 @@
+ids,labels,parents
+technical_domain, Technical Domain,
+security,Security, technical_domain
+reliability,Reliability,technical_domain
+cost, Cost, technical_domain
+cloud_best_pracitices, Cloud Best Practices,technical_domain
+awsEc2001, AWS_EC2_001, security
+awsEc2009, AWS_EC2_009, security
+1,RUNTIME-COMPUTE-PLATFORM, awsEc2001
+2, EGDP-TF-APP-CLOVERLEAF, awsEc2001
+3, RUNTIME-COMPUTE-PLATFORM, awsEc2009
