@@ -1,5 +1,5 @@
 ids,labels,parents
-Domain, Domain,
-Security,Security, Domain
-Reliability,Reliability, Domain
-Cost,Cost, Domain
+Domain,Domain,
+Security,Security,Domain
+Reliability,Reliability,Domain
+Cost,Cost,Domain
